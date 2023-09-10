@@ -1,0 +1,11 @@
+Client - Image, Password, Appointment, Archieve
+
+Appointment - OTP, Client side Cancelled, Reschedule
+
+Dashboard - Sino yung mga mag aapointment ngayong araw
+
+New appointment
+
+
+// 
+Generate - PDF,
